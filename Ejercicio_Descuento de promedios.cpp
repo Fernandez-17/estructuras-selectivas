@@ -7,6 +7,7 @@ el 18% de IGV. Obtener cuanto debe pagar un alumno.*/
 using namespace std;
 int main( ){
 	double promedio,pension_educativa,pago_final;
+	cout<<"Bienvenido al sistema "<<endl;
 	cout<<"Ingrese el promedio del estudiante: ";
 	cin>>promedio;
 	cout<<"Ingrese el monto de la pension educativa: ";
